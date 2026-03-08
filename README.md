@@ -54,4 +54,4 @@ The following features are planned for future development iterations:
 
 * Text-to-Speech (TTS): Automated readbacks for ATC clearances.
 
-* Speech Recognition (v2.0): Integration of asynchronous Voice-to-Text models (e.g., Vosk) for controller inputs. (Maybe, if enough time)
+* Speech Recognition (v2.0): Integration of asynchronous Voice-to-Text models (e.g., [Vosk](https://github.com/alphacep/vosk-api) for controller inputs. (Maybe, if enough time)
