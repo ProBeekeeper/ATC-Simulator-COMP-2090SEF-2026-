@@ -4,7 +4,7 @@ A 2D vector-based Air Traffic Control (ATC) simulator written in Python. This pr
 
 ### 👥 Project Members
 
-KaiWang Wu, ShingYung Chan, KinLam Chan
+[KaiWang Wu](https://github.com/ProBeekeeper), [ShingYung Chan](https://github.com/xTeStX1), KinLam Chan
 
 ### 🎯 Project Overview
 
